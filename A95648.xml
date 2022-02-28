@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A table of the church-duties for the parish of St. Gyles without Cripplegate, as it was concluded and agreed upon, by the vicar and the gentlemen of the vestry, in a full meeting February the third, 1664</title>
+            <author>St. Giles Cripplegate. Parish.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95648</idno>
+            <idno type="STC">Wing T76C</idno>
+            <idno type="STC">ESTC R42427</idno>
+            <idno type="EEBO-CITATION">36273549</idno>
+            <idno type="OCLC">ocm 36273549</idno>
+            <idno type="VID">150310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2241:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A table of the church-duties for the parish of St. Gyles without Cripplegate, as it was concluded and agreed upon, by the vicar and the gentlemen of the vestry, in a full meeting February the third, 1664</title>
+                  <author>St. Giles Cripplegate. Parish.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Guildhall (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral service --  England --  London --  Costs --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_fees">
+            <pb facs="tcp:150310:1" rendition="simple:additions"/>
+            <head>A TABLE of the Church-Duties for the Pariſh of
+S<hi rend="sup">t.</hi> GYLES without CRIPLEGATE:
+As it was concluded and agreed upon, by the Vicar, and the Gentlemen of the Veſtry, in a full Meeting, <date>February, the Third, 1674</date>.</head>
+            <list>
+               <head>For Burials.</head>
+               <item>IN the Church-yard, near the Peſt-houſe 00 02 06</item>
+               <item>Whereof to the Vicar 00 00 06</item>
+               <item>To the Pariſh, If under Seven years of Age 00 00 06</item>
+               <item>If above Seven years of Age 00 01 00</item>
+               <item>To the Clerk 00 00 04</item>
+               <item>To the Sexton for the Grave making 00 00 08</item>
+            </list>
+            <list>
+               <head>For Burials.</head>
+               <item>IN the Church-yard, adjoyning to the
+Church, or in the other by the Bull<g ref="char:EOLhyphen"/>works,
+if above Seven years of Age 00 10 00</item>
+               <item>If under Seven years of Age 00 09 00</item>
+               <item>Whereof to the Vicar 00 03 02</item>
+               <item>To the Clerk 00 00 09</item>
+               <item>To the Sexton for the Grave making 00 01 04</item>
+               <item>The Remainder to the Pariſh, which is
+4 <hi>s. 9 d.</hi> or 3 <hi>s. 9 d.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For Burials.</head>
+               <item>IN <hi>White-Croſs-ſtreet</hi> Church-yard, if
+above Seven years of Age 00 06 06</item>
+               <item>If under Seven years of Age 00 05 06</item>
+               <item>Whereof to the Vicar 00 02 00</item>
+               <item>To the Clerk 00 00 06</item>
+               <item>To the Sexton for the Grave making 00 01 00</item>
+               <item>The Remainder to the Pariſh, which is
+3 <hi>s.</hi> or 2 <hi>s.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For Burials.</head>
+               <item>IN the Church, if above Seven years
+of Age 01 05 00</item>
+               <item>If under ſeven years of Age 00 16 08</item>
+               <item>Whereof to the Vicar 00 05 00</item>
+               <item>To the Clerk 00 00 09</item>
+               <item>To the Sexton for the Grave making 00 01 04</item>
+               <item>The Remainder to the Pariſh, which is
+17 <hi>s. 11 d.</hi> or 9 <hi>s. 7 d.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Attendance before the Corps to the
+Church, or any of the Church-yards.</head>
+               <item>TO the Vicar 00 02 00</item>
+               <item>To the Clerk 00 00 08</item>
+               <item>To the Sexton 00 00 04</item>
+               <item>And no Attendance without the Vicar
+or his Curate</item>
+               <item>EVery Pariſhioner hath liberty to
+appoint the hour for his Friends
+Burial and Attendance; but if
+he be not ready at the hour appoin<g ref="char:EOLhyphen"/>ted,
+or half an hour after, he ſhall
+pay double Duties; and if the Vi<g ref="char:EOLhyphen"/>car
+or his Curate be not ready at the
+hour appointed, or half an hour af<g ref="char:EOLhyphen"/>ter,
+he ſhall loſe his Duties.</item>
+            </list>
+            <list>
+               <head>For the Cloaths.</head>
+               <item>THe beſt Cloath 00 02 00</item>
+               <item>The ſecond Cloath 00 01 06</item>
+               <item>The third Cloath 00 01 00</item>
+               <item>Out of each of which Cloaths, the
+Sexton ſhall have 00 00 06</item>
+               <item>And he to gather the Moneys, and to
+pay it to the Church-Warden, for
+the uſe of the Poor of this Pariſh.</item>
+               <item>FOr the Burial of ſtrangers, that are
+brought out of other Pariſhes,
+the Duties are double</item>
+               <item>But dying in the Pariſh, and buried in
+another, the Duties are ſingle</item>
+               <item>FOr the Bells to the Sexton; the
+ſecond Bell 4 <hi>d.</hi> the third Bell 6 <hi>d.</hi>
+the fourth Bell 8 <hi>d.</hi> the fifth Bell
+10 <hi>d.</hi> the ſixth Bell 12 <hi>d.</hi>
+               </item>
+               <item>FOr the Bells to the Pariſh: the
+Knell of the ſecond Bell 2 <hi>s.</hi>
+whereof to the Sexton 4 <hi>d</hi> the
+Knell of the third Bell 3 <hi>s.</hi> whereof to
+the Sexton 6 <hi>d.</hi> the Knell of the fourth
+Bell 4 <hi>s.</hi> whereof to the Sexton 8 <hi>d.</hi> the
+Knell of the fifth Bell 5 <hi>s.</hi> whereof to
+the Sexton 10 <hi>d.</hi> the Knell of the ſixth
+Bell 6 <hi>s. 8 d.</hi> whereof to the Sexton
+12 <hi>d.</hi> And whoſoever ſhall be buried in
+the Church, ſhall pay for the Knell of
+the ſixth Bell 6 <hi>s. 8 d.</hi> whither he or ſhe
+will have it Ring or not.</item>
+               <item>FOr Weddings with Banes 00 03 04</item>
+               <item>Whereof to the Vicar 00 01 10</item>
+               <item>To the Clerk 00 01 00</item>
+               <item>To the Sexton 00 00 06</item>
+               <item>FOr Weddings with Licence 00 06 08</item>
+               <item>Whereof to the Vicar 00 04 06</item>
+               <item>To the Clerk 00 01 02</item>
+               <item>To the Sexton 00 01 00</item>
+               <item>And every one left to himſelf, to give
+more if he pleaſes</item>
+            </list>
+            <list>
+               <head>For Churching of Women, to be paid at
+the Baptizing of the Child.</head>
+               <item>TO the Vicar 00 00 08</item>
+               <item>To the Clerk 00 00 04</item>
+               <item>To the Sexton 00 00 02</item>
+               <item>FOr breaking the Ground, and
+other Duties in the Chancel, as
+the Vicar pleaſeth</item>
+               <item>THe Clerk his Wages for every
+houſe Quarterly 00 00 01</item>
+            </list>
+            <div type="list_of_members_present">
+               <head>The names of the Gentlemen of the
+Veſtry then preſent.</head>
+               <list>
+                  <head>Freedome</head>
+                  <item>
+                     <hi>John</hi> Lord Biſhop
+of <hi>Glouceſter Vicar</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Ralph Tasker</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Whittle</item>
+                  <item>
+                     <hi>Mr.</hi> William Lillie</item>
+                  <item>
+                     <hi>Mr.</hi> Edward Dearmer</item>
+                  <item>
+                     <hi>Mr.</hi> Henry Peirſon</item>
+                  <item>
+                     <hi>Mr.</hi> John Wythens</item>
+                  <item>
+                     <hi>Mr.</hi> William Satchwell</item>
+                  <item>
+                     <hi>Mr.</hi> Robert Sidwell</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Knight</item>
+                  <item>
+                     <hi>Mr.</hi> John Snelling</item>
+                  <item>
+                     <hi>Mr.</hi> Daniel Royce</item>
+                  <item>
+                     <hi>Mr.</hi> Richard Knight</item>
+                  <item>
+                     <hi>Mr.</hi> Edward Young</item>
+                  <item>
+                     <hi>Mr.</hi> Daniel Walton</item>
+                  <item>
+                     <hi>Mr.</hi> Richard Steel</item>
+                  <item>
+                     <hi>Mr.</hi> Henry Ward</item>
+               </list>
+               <list>
+                  <head>Lordſhip.</head>
+                  <item>
+                     <hi>Mr.</hi> John Bridges</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Skinner.</item>
+                  <item>
+                     <hi>Mr.</hi> Henry Boothman</item>
+                  <item>
+                     <hi>Mr.</hi> Tho. Conney</item>
+                  <item>
+                     <hi>Mr.</hi> Anthony Tanner</item>
+                  <item>
+                     <hi>Mr.</hi> Samuel Lid diat</item>
+                  <item>
+                     <hi>Mr.</hi> Tho. Winchuſt</item>
+                  <item>
+                     <hi>Mr.</hi> Edw. Webſter</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Fletcher</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Ram</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Pettit</item>
+                  <item>
+                     <hi>Mr.</hi> Richard Cole</item>
+               </list>
+               <list>
+                  <head>Church Wardens.</head>
+                  <item>
+                     <hi>Mr.</hi> Edw. Shaller</item>
+                  <item>
+                     <hi>Mr.</hi> Edw. Hanney</item>
+                  <item>
+                     <hi>Mr.</hi> Brumſted Weſt</item>
+                  <item>
+                     <hi>Mr.</hi> Robert Berkhead</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
